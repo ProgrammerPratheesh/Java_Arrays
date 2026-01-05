@@ -1,3 +1,5 @@
+//Find the second largest element in an array.
+
 package IntermediateProblems;
 
 public class SecondLargestNumber {
